@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+}
+.main-icons{
+    display: flexbox;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 50px;
+    height: 50px;
+}
+
+#reward{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-right: 1px solid rgb(101, 182, 105);
+}
+#my-skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-right: 1px solid rgb(101, 182, 105);
+    font-size: 18px;
+}
